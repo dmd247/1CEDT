@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0024bf43-5868-49ec-a9d7-9951e04e9d0a">
+  <name>TimeShit</name>
+  <synonym>
+    <key>ru</key>
+    <value>TimeShit</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="947b0127-a165-40d8-9a70-37bb4cedad3b"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cc301a61-e525-43ad-a217-23255e1046a3"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="0e4ab578-43ab-4608-9c55-5457dc28574b"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="82f7ea51-7659-4a5e-b865-6b00b9a68c9b"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="57d3e32c-9cea-4736-a7d0-a439af7a608f"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="28b8194b-4f13-44e8-b705-c64db64c8d66"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousExtensionAndAddInCallUseMode>DontUse</synchronousExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.10</compatibilityMode>
+  <languages uuid="7aec30e4-d07a-47a7-9246-4f6e48e3a796">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <documents>Document.Документ</documents>
+</mdclass:Configuration>
